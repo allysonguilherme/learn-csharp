@@ -1,0 +1,14 @@
+/home/allyson/Projects/calculate-grades/bin/Debug/net8.0/calculate-grades
+/home/allyson/Projects/calculate-grades/bin/Debug/net8.0/calculate-grades.deps.json
+/home/allyson/Projects/calculate-grades/bin/Debug/net8.0/calculate-grades.runtimeconfig.json
+/home/allyson/Projects/calculate-grades/bin/Debug/net8.0/calculate-grades.dll
+/home/allyson/Projects/calculate-grades/bin/Debug/net8.0/calculate-grades.pdb
+/home/allyson/Projects/calculate-grades/obj/Debug/net8.0/calculate-grades.GeneratedMSBuildEditorConfig.editorconfig
+/home/allyson/Projects/calculate-grades/obj/Debug/net8.0/calculate-grades.AssemblyInfoInputs.cache
+/home/allyson/Projects/calculate-grades/obj/Debug/net8.0/calculate-grades.AssemblyInfo.cs
+/home/allyson/Projects/calculate-grades/obj/Debug/net8.0/calculate-grades.csproj.CoreCompileInputs.cache
+/home/allyson/Projects/calculate-grades/obj/Debug/net8.0/calculate-grades.dll
+/home/allyson/Projects/calculate-grades/obj/Debug/net8.0/refint/calculate-grades.dll
+/home/allyson/Projects/calculate-grades/obj/Debug/net8.0/calculate-grades.pdb
+/home/allyson/Projects/calculate-grades/obj/Debug/net8.0/calculate-grades.genruntimeconfig.cache
+/home/allyson/Projects/calculate-grades/obj/Debug/net8.0/ref/calculate-grades.dll
